@@ -3,8 +3,7 @@
     "description": "A PHP package to calculate prayer times",
     "type": "library",
     "require": {
-        "php": ">=7",
-        "nesbot/carbon": "^1.22"
+        "php": ">=7"
     },
     "license": "MIT",
     "authors": [
