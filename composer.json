@@ -1,5 +1,5 @@
 {
-    "name": "geniusts/prayer-times",
+    "name": "purjayadi/prayer-times",
     "description": "A PHP package to calculate prayer times",
     "type": "library",
     "require": {
