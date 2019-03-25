@@ -15,7 +15,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "GeniusTS\\PrayerTimes\\": "src/"
+            "purjayadi\\PrayerTimes\\": "src/"
         }
     }
 }
